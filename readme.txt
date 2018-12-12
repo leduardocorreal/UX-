@@ -1,0 +1,1 @@
+Este repositioro albergaa diferentes archivos utilizados en los tutoriales de diseño del canal https://www.youtube.com/channel/UC07NKg1JX16e2qlJwpPjeQA; puede utilizar dichos archivos libremente bajo su total responsabilidad.
